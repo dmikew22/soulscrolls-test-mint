@@ -1,0 +1,20 @@
+{
+  "name": "SoulScroll Test #1",
+  "symbol": "SCRL",
+  "description": "A silent watcher of the scroll winds, encoded with alternate traits.",
+  "image": "1.png",
+  "attributes": [
+    {
+      "trait_type": "Spirit Class",
+      "value": "Shadebound"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Memeveil"
+    },
+    {
+      "trait_type": "Scroll Type",
+      "value": "Devnet Charm"
+    }
+  ]
+}

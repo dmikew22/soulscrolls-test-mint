@@ -1,0 +1,20 @@
+{
+  "name": "SoulScroll Test #0",
+  "symbol": "SCRL",
+  "description": "A mysterious test SoulScroll, bound to the ancient memetic flame.",
+  "image": "0.png",
+  "attributes": [
+    {
+      "trait_type": "Spirit Class",
+      "value": "Flickerkin"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Glowing Ash"
+    },
+    {
+      "trait_type": "Scroll Type",
+      "value": "Test Relic"
+    }
+  ]
+}
