@@ -1,20 +1,36 @@
 {
-  "name": "SoulScroll Test #0",
-  "symbol": "SCRL",
-  "description": "A mysterious test SoulScroll, bound to the ancient memetic flame.",
-  "image": "0.png",
+  "name": "SoulScrolls Familiar #1",
+  "symbol": "SOUL",
+  "description": "A sacred scrollbound familiar born from pixel lore.",
+  "image": "https://raw.githubusercontent.com/dmikew22/soulscrolls-test-mint/main/assets/0.png",
+  "seller_fee_basis_points": 500,
   "attributes": [
     {
-      "trait_type": "Spirit Class",
-      "value": "Flickerkin"
+      "trait_type": "Class",
+      "value": "Pepekin"
     },
     {
-      "trait_type": "Aura",
-      "value": "Glowing Ash"
-    },
-    {
-      "trait_type": "Scroll Type",
-      "value": "Test Relic"
+      "trait_type": "Tier",
+      "value": "Sacred"
     }
-  ]
+  ],
+  "collection": {
+    "name": "SoulScrolls",
+    "family": "SoulScrolls"
+  },
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/dmikew22/soulscrolls-test-mint/main/assets/0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "ADkYUkBYxJrw8J23N1mn9ZNh5kEyr5ixMS7NThszXAFw",
+        "share": 100
+      }
+    ]
+  }
 }
