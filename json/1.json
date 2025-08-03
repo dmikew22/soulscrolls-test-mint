@@ -1,34 +1,31 @@
 {
-  "name": "SoulScrolls Familiar #2",
+  "name": "SoulScroll Test #1",
   "symbol": "SOUL",
-  "description": "A soulbound guardian born from deep memetic ether.",
-  "image": "https://raw.githubusercontent.com/dmikew22/soulscrolls-test-mint/main/assets/1.png",
+  "description": "A second test mint for SoulScrolls.",
+  "image": "https://yourusername.github.io/soulscrolls-test-samples/assets/1.png",
   "seller_fee_basis_points": 500,
+  "external_url": "https://soulscrolls.xyz",
   "attributes": [
     {
       "trait_type": "Class",
-      "value": "Froggin"
+      "value": "Shadowkin"
     },
     {
-      "trait_type": "Tier",
-      "value": "Mythic"
+      "trait_type": "Scroll Tier",
+      "value": "Uncommon"
     }
   ],
-  "collection": {
-    "name": "SoulScrolls",
-    "family": "SoulScrolls"
-  },
   "properties": {
-    "category": "image",
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/dmikew22/soulscrolls-test-mint/main/assets/1.png",
+        "uri": "https://yourusername.github.io/soulscrolls-test-samples/assets/1.png",
         "type": "image/png"
       }
     ],
+    "category": "image",
     "creators": [
       {
-        "address": "ADkYUkBYxJrw8J23N1mn9ZNh5kEyr5ixMS7NThszXAFw",
+        "address": "2xShkKpSnjowovzWAwgnyZvbJZS9Qts1VUhh3XXheo72",
         "share": 100
       }
     ]
