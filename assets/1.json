@@ -3,7 +3,7 @@
   "symbol": "SOUL",
   "description": "A second test mint for SoulScrolls.",
   "image": "https://raw.githubusercontent.com/dmikew22/soulscrolls-test-mint/refs/heads/main/assets/1.png",
-  "seller_fee_basis_points": 500,
+  "sellerFeeBasisPoints": 500,
   "external_url": "https://soulscrolls.xyz",
   "attributes": [
     {
