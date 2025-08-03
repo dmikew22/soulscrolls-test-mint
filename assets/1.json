@@ -1,0 +1,33 @@
+{
+  "name": "SoulScroll Test #1",
+  "symbol": "SOUL",
+  "description": "A second test mint for SoulScrolls.",
+  "image": "https://raw.githubusercontent.com/dmikew22/soulscrolls-test-mint/refs/heads/main/assets/1.png",
+  "seller_fee_basis_points": 500,
+  "external_url": "https://soulscrolls.xyz",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Shadowkin"
+    },
+    {
+      "trait_type": "Scroll Tier",
+      "value": "Uncommon"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/dmikew22/soulscrolls-test-mint/refs/heads/main/assets/1.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2xShkKpSnjowovzWAwgnyZvbJZS9Qts1VUhh3XXheo72",
+        "share": 100
+      }
+    ]
+  }
+}
