@@ -1,34 +1,31 @@
 {
-  "name": "SoulScrolls Familiar #1",
+  "name": "SoulScroll Test #0",
   "symbol": "SOUL",
-  "description": "A sacred scrollbound familiar born from pixel lore.",
-  "image": "https://raw.githubusercontent.com/dmikew22/soulscrolls-test-mint/main/assets/0.png",
+  "description": "A test mint for SoulScrolls.",
+  "image": "https://yourusername.github.io/soulscrolls-test-samples/assets/0.png",
   "seller_fee_basis_points": 500,
+  "external_url": "https://soulscrolls.xyz",
   "attributes": [
     {
       "trait_type": "Class",
-      "value": "Pepekin"
+      "value": "Shadowkin"
     },
     {
-      "trait_type": "Tier",
-      "value": "Sacred"
+      "trait_type": "Scroll Tier",
+      "value": "Common"
     }
   ],
-  "collection": {
-    "name": "SoulScrolls",
-    "family": "SoulScrolls"
-  },
   "properties": {
-    "category": "image",
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/dmikew22/soulscrolls-test-mint/main/assets/0.png",
+        "uri": "https://yourusername.github.io/soulscrolls-test-samples/assets/0.png",
         "type": "image/png"
       }
     ],
+    "category": "image",
     "creators": [
       {
-        "address": "ADkYUkBYxJrw8J23N1mn9ZNh5kEyr5ixMS7NThszXAFw",
+        "address": "2xShkKpSnjowovzWAwgnyZvbJZS9Qts1VUhh3XXheo72",
         "share": 100
       }
     ]
